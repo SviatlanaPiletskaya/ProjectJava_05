@@ -19,8 +19,6 @@ public class FizzBuzzTest {
 
         //act
 
-//        FizzBuzz fizzBuzz = new FizzBuzz();
-//        String[] actualResult = fizzBuzz.fizzBuzz(start, end);
         String[] actualResult = new FizzBuzz().fizzBuzz(start, end);
 
         //Assert
